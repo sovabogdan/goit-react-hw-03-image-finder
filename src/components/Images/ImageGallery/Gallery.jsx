@@ -1,7 +1,7 @@
-export default function ImageGallery() {
+/* export default function ImageGallery() {
     return (
-        <li class="gallery-item">
+        <li>
             <img src="" alt="" />
         </li>
     );
-}
+} */
