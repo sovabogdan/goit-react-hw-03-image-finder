@@ -1,4 +1,4 @@
-@import-normalize; /* bring in normalize.css styles */
+@import 'modern-normalize/modern-normalize.css';
 
 body {
   margin: 0;
@@ -25,4 +25,7 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+}
+h1{
+  margin:0;
 }
