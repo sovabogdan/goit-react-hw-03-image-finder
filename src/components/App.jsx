@@ -5,7 +5,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import { Zoom } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-import SearhBar from './searchBar/SearchBar';
+import SearhBar from './SearchBar/SearchBar';
 import ImageGallery from './image-gallery/ImageGallery';
 import LoadMoreButton from './button/Button';
 import { AppContainer } from './App.styled';
